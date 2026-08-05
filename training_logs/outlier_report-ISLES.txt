@@ -1,0 +1,30 @@
+Detailed Outlier Report
+==============================
+
+Cases flagged as Volume Outliers:
+  Case 9: Volume = 141.3680 cm³, Filtered Lesions = 2 --> volume above upper bound (141.3680 > 87.3758)
+  Case 23: Volume = 139.4800 cm³, Filtered Lesions = 5 --> volume above upper bound (139.4800 > 87.3758)
+  Case 28: Volume = 212.4080 cm³, Filtered Lesions = 1 --> volume above upper bound (212.4080 > 87.3758)
+  Case 44: Volume = 147.3978 cm³, Filtered Lesions = 5 --> volume above upper bound (147.3978 > 87.3758)
+  Case 74: Volume = 95.0340 cm³, Filtered Lesions = 4 --> volume above upper bound (95.0340 > 87.3758)
+  Case 85: Volume = 482.1520 cm³, Filtered Lesions = 7 --> volume above upper bound (482.1520 > 87.3758)
+  Case 102: Volume = 94.8960 cm³, Filtered Lesions = 5 --> volume above upper bound (94.8960 > 87.3758)
+  Case 106: Volume = 216.2560 cm³, Filtered Lesions = 6 --> volume above upper bound (216.2560 > 87.3758)
+  Case 107: Volume = 125.6720 cm³, Filtered Lesions = 2 --> volume above upper bound (125.6720 > 87.3758)
+  Case 127: Volume = 92.8240 cm³, Filtered Lesions = 9 --> volume above upper bound (92.8240 > 87.3758)
+  Case 145: Volume = 111.1760 cm³, Filtered Lesions = 2 --> volume above upper bound (111.1760 > 87.3758)
+  Case 152: Volume = 112.4160 cm³, Filtered Lesions = 7 --> volume above upper bound (112.4160 > 87.3758)
+  Case 185: Volume = 198.0160 cm³, Filtered Lesions = 4 --> volume above upper bound (198.0160 > 87.3758)
+  Case 187: Volume = 107.7089 cm³, Filtered Lesions = 3 --> volume above upper bound (107.7089 > 87.3758)
+  Case 189: Volume = 163.9739 cm³, Filtered Lesions = 2 --> volume above upper bound (163.9739 > 87.3758)
+  Case 214: Volume = 93.0720 cm³, Filtered Lesions = 15 --> volume above upper bound (93.0720 > 87.3758)
+  Case 220: Volume = 139.4960 cm³, Filtered Lesions = 3 --> volume above upper bound (139.4960 > 87.3758)
+  Case 228: Volume = 143.2640 cm³, Filtered Lesions = 1 --> volume above upper bound (143.2640 > 87.3758)
+
+Cases flagged as Lesion Count Outliers:
+  Case 10: Lesion Count = 29, Volume = 28.0065 cm³ --> lesion count above upper bound (29 > 26.0000)
+  Case 56: Lesion Count = 34, Volume = 42.6336 cm³ --> lesion count above upper bound (34 > 26.0000)
+  Case 89: Lesion Count = 38, Volume = 21.1876 cm³ --> lesion count above upper bound (38 > 26.0000)
+  Case 165: Lesion Count = 39, Volume = 49.9812 cm³ --> lesion count above upper bound (39 > 26.0000)
+
+Cases flagged as Combined Outliers (both volume and lesion count):

@@ -1,0 +1,34 @@
+{
+  "os":  "Linux-6.12.10-76061203-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-12-09T09:45:39.558639Z",
+  "program":  "/home/students/Downloads/training2.py",
+  "email":  "boubakryahmed@gmail.com",
+  "root":  "/home/students/Desktop/PDS Ahmed",
+  "host":  "cluster0",
+  "executable":  "/usr/bin/python3",
+  "cpu_count":  10,
+  "cpu_count_logical":  20,
+  "gpu":  "NVIDIA GeForce RTX 2080 Ti",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1958333022208",
+      "used":  "408215724032"
+    }
+  },
+  "memory":  {
+    "total":  "67087577088"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 2080 Ti",
+      "memoryTotal":  "11811160064",
+      "cudaCores":  4352,
+      "architecture":  "Turing",
+      "uuid":  "GPU-a058509c-c00b-1558-3c57-a726e9fea0ba"
+    }
+  ],
+  "cudaVersion":  "12.8",
+  "writerId":  "3qpdpxvoi22tfybpwwf820hd5sn4aea1"
+}

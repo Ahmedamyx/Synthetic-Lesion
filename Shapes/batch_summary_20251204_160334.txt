@@ -1,0 +1,19 @@
+BATCH PROCESSING SUMMARY
+Timestamp: 20251204_160334
+Shape mode: custom
+Lesions per subject: 3
+Soft masks generated: No
+
+Subjects processed: 1 / 1
+Successful: 0248
+Failed: None
+
+Total lesions generated across all subjects: 3
+
+Statistics:
+  Mean lesion volume: 1.3591 cm³
+  Std lesion volume: 1.1330 cm³
+  Min lesion volume: 0.0063 cm³
+  Max lesion volume: 2.7792 cm³
+  Mean DWI intensity factor: 5.000
+  Mean ADC intensity factor: 0.719

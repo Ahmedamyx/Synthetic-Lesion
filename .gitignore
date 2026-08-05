@@ -1,0 +1,36 @@
+# ---------------------------------------------------------------
+# Datasets are NOT redistributable and NOT pushable.
+#
+#  - HCP data is under a Data Use Agreement that forbids
+#    redistribution; ISLES-2022 has its own terms.
+#  - The generated-dataset archives are ~370 MB each, past
+#    GitHub's 100 MB per-file limit.
+#
+# See the README for how to obtain the data and lay it out.
+# ---------------------------------------------------------------
+HCPDATA/
+*.zip
+
+# Large / regenerable imaging artifacts
+*.nii
+*.nii.gz
+!Shapes/**/*.nii.gz
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Weights & Biases live state
+wandb/
+training_logs/latest-run
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

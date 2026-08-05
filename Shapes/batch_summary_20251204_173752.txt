@@ -1,0 +1,18 @@
+BATCH PROCESSING SUMMARY
+Timestamp: 20251204_173752
+Shape mode: sphere
+Lesion count determined by: Random (1-3)
+Intensity mode: Realistic (from analyzed strokes)
+Soft masks generated: No
+
+Subjects processed: 1 / 1
+Successful: 0050
+Failed: None
+
+Total lesions generated across all subjects: 2
+
+Statistics:
+  Mean lesion volume: 2.6840 cm³
+  Std lesion volume: 2.4920 cm³
+  Min lesion volume: 0.1920 cm³
+  Max lesion volume: 5.1760 cm³
