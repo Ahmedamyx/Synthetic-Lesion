@@ -89,7 +89,7 @@ spurious detections.
 
 *The five morphological descriptors measured on real ISLES lesions. Eccentricity concentrates
 near 1 and compactness near 0: real infarcts are strongly elongated and irregular, nothing like
-spheres. These distributions become the objective the shape generator optimises against.*
+spheres. These distributions become the objective the shape generator optimizes against.*
 
 ---
 
